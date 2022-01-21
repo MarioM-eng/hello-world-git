@@ -82,3 +82,13 @@ export  $initHighlight;
 | ------ | -------- | ---------- |
 | Maxi |Burgos | 2354654 |
 |Tomas | Thompson | 356897 |
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo.
+> Esto es una cita
+
+Las citas deben tener un espacio.
+
+Esto es otro texto que no se relaciona con la cita anterior.
+> Esto es otra cita.
+
