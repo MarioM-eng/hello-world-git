@@ -103,3 +103,11 @@ Esto es otro texto dividido por guiones bajos
 
 ___
 
+# Saltos de linea
+Esto es nuestro primer párrafo.
+
+Esto es nuestro segundo párrafo mediante un enter.
+
+Esto es nuestro tercer párrafo.
+
+
